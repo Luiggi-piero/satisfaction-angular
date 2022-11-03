@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 <p>Sistema web encargado de mantener el registro del nivel de satisfacción de empleados.
-Sistema en desarrollo.</p>
+</p>
 
 - Angular material
 - HTML
